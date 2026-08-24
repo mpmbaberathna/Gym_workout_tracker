@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  backend:
+    build: ./backend
+    ports:
+      - "5000:5000"
+    environment:
+      - PORT=5000
+      - MONGO_URI=mongodb+srv://kavgam812_db_user:hr4tF1hUpVuzNGc9@cluster0.j6qv1nw.mongodb.net/
+      - JWT_SECRET=supersecretkey
+      - EMAIL_USER=guerillafit77@gmail.com
+      - EMAIL_PASS=lezuamkpodjlgoit
+      - FRONTEND_URL=http://localhost:5173
+    volumes:
+      - uploads_volume:/app/uploads
+
+  frontend:
+    build: ./frontend
+    ports:
+      - "5173:80"
+    depends_on:
+      - backend
+
+volumes:
+  uploads_volume:
