@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Armand Bretmann",
+    "role": "CEO & Founder",
+    "avatar": "frequencii-assets/team/avatar-6.png"
+  },
+  {
+    "name": "Ann Franci",
+    "role": "Co-Founder",
+    "avatar": "frequencii-assets/team/avatar-5.png"
+  },
+  {
+    "name": "Ryan Rosser",
+    "role": "COO",
+    "avatar": "frequencii-assets/team/avatar-4.png"
+  },
+  {
+    "name": "Jakob Gouse",
+    "role": "Design",
+    "avatar": "frequencii-assets/team/avatar-7.png"
+  },
+  {
+    "name": "Tiana Culhane",
+    "role": "Customer Experience",
+    "avatar": "frequencii-assets/team/avatar-8.png"
+  },
+  {
+    "name": "Marley Dokidis",
+    "role": "People Ops",
+    "avatar": "frequencii-assets/team/avatar-3.png"
+  },
+  {
+    "name": "Kaiya Saris",
+    "role": "Talent",
+    "avatar": "frequencii-assets/team/avatar-2.png"
+  },
+  {
+    "name": "Emerson Kenter",
+    "role": "Engineering",
+    "avatar": "frequencii-assets/team/avatar-1.png"
+  }
+]

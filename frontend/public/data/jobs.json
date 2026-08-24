@@ -1,0 +1,49 @@
+{
+  "jobsByDepartment": [
+    {
+      "department": "Design",
+      "positions": [
+        {
+          "title": "Head of Product Design",
+          "link": "#"
+        },
+        {
+          "title": "Senior Product Designer",
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "department": "Engineering",
+      "positions": [
+        {
+          "title": "Staff Engineer",
+          "link": "#"
+        },
+        {
+          "title": "Senior Frontend Engineer",
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "department": "Marketing",
+      "positions": [
+        {
+          "title": "Marketing Lead",
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "department": "Customer Experience",
+      "positions": [
+        {
+          "title": "Customer Experience Lead",
+          "link": "#"
+        }
+      ]
+    }
+  ],
+  "totalOpenPositions": 6
+}

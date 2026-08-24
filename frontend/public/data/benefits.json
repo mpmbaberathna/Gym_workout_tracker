@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "frequencii-assets/careers/hospital-icon-circle.png",
+    "title": "Inclusive Health Package",
+    "description": "We care for your well-being with dental and vision benefits. No health expense stress."
+  },
+  {
+    "icon": "frequencii-assets/careers/rocket-icon-circle.png",
+    "title": "Learn and Grow",
+    "description": "We foster your career growth through mentorship and networking events."
+  },
+  {
+    "icon": "frequencii-assets/careers/clock-icon-circle.png",
+    "title": "Flexible Working Style",
+    "description": "We are 100% remote-friendly, work with team mates from different time zones."
+  },
+  {
+    "icon": "frequencii-assets/careers/beach-icon-circle.png",
+    "title": "Balanced Working Life",
+    "description": "We offer a flexible 4-weeks vacation policy. Recharge whenever you need to."
+  },
+  {
+    "icon": "frequencii-assets/careers/earth-icon-circle.png",
+    "title": "Diversity and Inclusion",
+    "description": "Our strength lies in team members diversity and inclusive culture."
+  },
+  {
+    "icon": "frequencii-assets/careers/money-icon-circle.png",
+    "title": "Generous Perks Program",
+    "description": "We provide perk stipends for home office, learning, wellness, and connectivity."
+  }
+]

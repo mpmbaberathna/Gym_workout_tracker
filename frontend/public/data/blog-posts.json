@@ -1,0 +1,104 @@
+{
+  "blogPosts": [
+    {
+      "id": 1,
+      "title": "Effortless Asset Organization: Simplify with Bookmarking",
+      "excerpt": "We've all experienced the chaos of multiple spreadsheets, tracking and insight tools...",
+      "date": "20 Jul 2023",
+      "readTime": "4 min read",
+      "author": {
+        "name": "Max Ranver",
+        "avatar": "frequencii-assets/blog/avatar-medium.png"
+      },
+      "image": "frequencii-assets/blog/blog-element-main.png",
+      "category": "Featured",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Save Time, Stay Organized: Uncover the Magic",
+      "excerpt": "",
+      "date": "20 Jul 2023",
+      "readTime": "4 min read",
+      "author": {
+        "name": "Max Ranver",
+        "avatar": "frequencii-assets/blog/avatar-medium.png"
+      },
+      "image": "frequencii-assets/blog/blog-element-2.png",
+      "category": "Tips"
+    },
+    {
+      "id": 3,
+      "title": "How We Built AI-Collections: Wrapping Up",
+      "excerpt": "",
+      "date": "20 Jul 2023",
+      "readTime": "4 min read",
+      "author": {
+        "name": "Max Ranver",
+        "avatar": "frequencii-assets/blog/avatar-medium.png"
+      },
+      "image": "frequencii-assets/blog/blog-element3.png",
+      "category": "Tutorials"
+    },
+    {
+      "id": 4,
+      "title": "5 Common Mistakes while Bookmarking Assets",
+      "excerpt": "",
+      "date": "20 Jul 2023",
+      "readTime": "4 min read",
+      "author": {
+        "name": "Max Ranver",
+        "avatar": "frequencii-assets/blog/avatar-medium.png"
+      },
+      "image": "frequencii-assets/blog/blog-element4.png",
+      "category": "Tips"
+    },
+    {
+      "id": 5,
+      "title": "Optimizing Loading Indicator",
+      "excerpt": "",
+      "date": "20 Jul 2023",
+      "readTime": "4 min read",
+      "author": {
+        "name": "Max Ranver",
+        "avatar": "frequencii-assets/blog/avatar-medium.png"
+      },
+      "image": "frequencii-assets/blog/blog-element5.png",
+      "category": "Tutorials"
+    },
+    {
+      "id": 6,
+      "title": "Product Update July 2023",
+      "excerpt": "",
+      "date": "20 Jul 2023",
+      "readTime": "4 min read",
+      "author": {
+        "name": "Max Ranver",
+        "avatar": "frequencii-assets/blog/avatar-medium.png"
+      },
+      "image": "frequencii-assets/blog/blog-element6.png",
+      "category": "Other"
+    },
+    {
+      "id": 7,
+      "title": "Product Update July 2023",
+      "excerpt": "",
+      "date": "20 Jul 2023",
+      "readTime": "4 min read",
+      "author": {
+        "name": "Max Ranver",
+        "avatar": "frequencii-assets/blog/avatar-medium.png"
+      },
+      "image": "frequencii-assets/blog/blog-element6.png",
+      "category": "Other"
+    }
+  ],
+  "blogCategories": [
+    { "id": "all", "name": "All", "active": true },
+    { "id": "featured", "name": "Featured", "active": false },
+    { "id": "tutorials", "name": "Tutorials", "active": false },
+    { "id": "tips", "name": "Tips", "active": false },
+    { "id": "insights", "name": "Insights", "active": false },
+    { "id": "other", "name": "Other", "active": false }
+  ]
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "starter",
+    "name": "Starter",
+    "price": "$0",
+    "period": "per month",
+    "buttonText": "Get Started",
+    "buttonStyle": "outline",
+    "popular": false,
+    "features": [
+      "Complete documentation",
+      "Working materials in Figma",
+      "100GB cloud storage"
+    ]
+  },
+  {
+    "id": "team",
+    "name": "Team",
+    "price": "$10",
+    "period": "per month",
+    "buttonText": "Get Started",
+    "buttonStyle": "primary",
+    "popular": true,
+    "popularText": "Most Popular",
+    "description": "All features in the Plan plan plus:",
+    "features": [
+      "Complete documentation",
+      "Working materials in Figma",
+      "100GB cloud storage"
+    ]
+  },
+  {
+    "id": "enterprise",
+    "name": "Enterprise",
+    "price": "Custom",
+    "period": "Please contact sales for details",
+    "buttonText": "Contact Sales",
+    "buttonStyle": "outline",
+    "popular": false,
+    "features": [
+      "Complete documentation",
+      "Working materials in Figma",
+      "100GB cloud storage"
+    ]
+  }
+]

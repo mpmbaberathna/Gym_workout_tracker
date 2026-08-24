@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What membership plans do you offer?",
+    "answer": "We offer Monthly, Quarterly, and Annual plans. Each plan includes access to gym facilities and group classes; personal training and nutrition coaching are available as add-ons. Billing is automatic until you cancel."
+  },
+  {
+    "question": "How do I book a training session or class?",
+    "answer": "Members can book sessions from the Schedule page in the app. Trainers can create and edit slots; tap a slot and confirm to reserve it. You can also book by contacting your trainer or support."
+  },
+  {
+    "question": "Can I train with a personal trainer?",
+    "answer": "Yes — personal training is available. Visit the Trainers page to view profiles and request a trainer. Trainers can also assign tailored plans to members from the Trainer dashboard."
+  },
+  {
+    "question": "What is the cancellation or rescheduling policy?",
+    "answer": "Please cancel or reschedule at least 24 hours before your session to avoid a late cancellation fee. Rescheduling within 24 hours may be permitted at the trainer's discretion."
+  },
+  {
+    "question": "Do you offer nutrition guidance and progress tracking?",
+    "answer": "Yes — trainers can add nutrition notes to plans and members can log progress under the Progress page. We also support manual input and photo uploads for progress tracking."
+  },
+  {
+    "question": "What payment methods do you accept and how secure is billing?",
+    "answer": "We accept major credit/debit cards and secure online payment processors. Payment details are handled by the payment provider and are not stored on our servers."
+  }
+]

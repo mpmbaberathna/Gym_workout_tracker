@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "logoSrc": "/frequencii-assets/logo-clouds/logo-ipsum-6.svg",
+    "quote": "We use the app daily and we're very happy that they are created this amazing bookmarking platform.",
+    "avatarSrc": "/frequencii-assets/blog/avatar-medium.png",
+    "name": "Ethan Rauf",
+    "title": "Founder of AIME Inc."
+  },
+  {
+    "id": 2,
+    "logoSrc": "/frequencii-assets/logo-clouds/logo-ipsum-1.svg",
+    "quote": "We use the app daily and we're very happy that they are created this amazing bookmarking platform.",
+    "avatarSrc": "/frequencii-assets/blog/avatar-medium.png",
+    "name": "Hanna Stanton",
+    "title": "Founder of AIME Inc."
+  },
+  {
+    "id": 3,
+    "logoSrc": "/frequencii-assets/logo-clouds/logo-ipsum-2.svg",
+    "quote": "We use the app daily and we're very happy that they are created this amazing bookmarking platform.",
+    "avatarSrc": "/frequencii-assets/blog/avatar-medium.png",
+    "name": "Cooper Levin",
+    "title": "Founder of AIME Inc."
+  }
+]
